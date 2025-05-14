@@ -1,3 +1,9 @@
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![UX/UI](https://img.shields.io/badge/UX%2FUI-000000?style=for-the-badge&logo=figma&logoColor=white)
+![GameMaker Studio 2](https://img.shields.io/badge/GameMaker_Studio_2-000000?style=for-the-badge&logo=yoYo%20games&logoColor=white)
+![Procreate](https://img.shields.io/badge/Procreate-000000?style=for-the-badge&logo=procreate&logoColor=white)
+
 # Game Development School Project – Tao’s Adventure: The Mystery of the Dragon Seal
 
 **GitHub Repo:** [School Game Development Project](https://github.com/eriimarie/School_game_development_project)  
